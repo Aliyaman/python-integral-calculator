@@ -158,6 +158,5 @@ def f(x):
     return x**2
 result = trapezoidal(0, 1, f)
 print(result)  # Output approximately 0.3333
-Hello! This project does the following...
 ```
 </details>
